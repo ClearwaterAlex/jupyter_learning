@@ -1,5 +1,5 @@
 # jupyter_learning
-notes and practice using Python in the Jupyter notebook
+Notes and practice using Python in the Jupyter notebook
 
 ## Commiting to GitHub:
 
